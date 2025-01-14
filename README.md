@@ -1,9 +1,5 @@
 # Referral API Documentation
 
-## Base URL
-```
-https://api.example.com/v1/referrals
-```
 
 ---
 
